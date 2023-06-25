@@ -34,8 +34,6 @@ tensorflow-metadata==1.13.1
 tensorflow-probability==0.20.1
 tensorstore==0.1.38
 tokenizers==0.13.3
-torchdata==0.6.1
-torchsummary==1.5.1
 transformers==4.30.2
 urllib3==1.26.16
 
